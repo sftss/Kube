@@ -6,6 +6,6 @@ Since its launch, Kube has been well-received for its innovative game mechanics 
 Among its features, Kube offers advanced 3D graphics and immersive sound effects for an enriching gaming experience.
 
 ## Authors
-* **H. Lucas** - [Lucopecto](https://github.com/lucopecto)
+* **H. Lucas** - [Luco](https://github.com/lucas-hatet)
 * **C. Melih** - [mc_3201](https://github.com/melih0132)
 * **T. Sefer** - [Sefer](https://github.com/sftss)
